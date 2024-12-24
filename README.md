@@ -26,3 +26,7 @@ The Retail Sales Dashboard dataset captures transactional data for Furniture, Of
 ![Retail Sales Dashboard ](https://github.com/user-attachments/assets/e08135e9-02f4-4f2b-a09a-9a2640ea70f8)
 
 
+https://github.com/user-attachments/assets/6495a0b9-f34e-4506-99e5-e7fc6778c810
+
+
+
