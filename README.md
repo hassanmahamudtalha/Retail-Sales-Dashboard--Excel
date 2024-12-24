@@ -3,11 +3,11 @@ The Retail Sales Dashboard dataset captures transactional data for Furniture, Of
 
 ## Questions :
 
-1. KPI -1: Calculate Total Sales 
-2. KPI -2: Calculate Total Profit 
-3. KPI -3: Calculate Total Quantity 
-4. KPI -4: Calculate the Total Order 
-5. KPI -5: Calculate Profit Margin 
+1. Calculate Total Sales 
+2. Calculate Total Profit 
+3. Calculate Total Quantity 
+4. Calculate the Total Order 
+5. Calculate Profit Margin 
 6. Show all KPI in Line Graphs 
 7. YOY Growth with Color Up and Down 
 8. Sales vs Profit Analysis (Use Bar Chart) 
